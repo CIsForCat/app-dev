@@ -15,7 +15,12 @@ Top 5 series:
 1. Chainsaw Man
 1. Demon Slayer
 
-'Search for [movies](https://www.rottentomatoes.com/) here.'
+'Java'  
+'''  
+{  
+  System.out.println("Hello, what is your favorite series so far?");  
+}  
+'''
 
 ---
 
